@@ -14,7 +14,7 @@ const Layout = () => {
           </li>
         </ul>
         <a
-          href="https://github.com/Jen-Hua-Chang/Infinite-Tic-Tac-Toe"
+          href="https://github.com/Jen-Hua-Chang/Pixora"
           target="_blank"
           rel="noopener noreferrer"
           class="github-button ms-auto me-2"
