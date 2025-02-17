@@ -10,7 +10,8 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
-          <Route index element={<Home />}></Route>
+          {/* <Route index element={<Home />}></Route> */}
+          <Route path="/Pixora/" element={<Home />}></Route>
           <Route path="*" element={<Page404 />}></Route>
         </Route>
       </Routes>
