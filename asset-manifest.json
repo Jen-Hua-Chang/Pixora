@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Pixora/static/css/main.94ab6b9d.css",
-    "main.js": "/Pixora/static/js/main.c72b607d.js",
+    "main.js": "/Pixora/static/js/main.b1f2ab5c.js",
     "index.html": "/Pixora/index.html",
     "main.94ab6b9d.css.map": "/Pixora/static/css/main.94ab6b9d.css.map",
-    "main.c72b607d.js.map": "/Pixora/static/js/main.c72b607d.js.map"
+    "main.b1f2ab5c.js.map": "/Pixora/static/js/main.b1f2ab5c.js.map"
   },
   "entrypoints": [
     "static/css/main.94ab6b9d.css",
-    "static/js/main.c72b607d.js"
+    "static/js/main.b1f2ab5c.js"
   ]
 }
